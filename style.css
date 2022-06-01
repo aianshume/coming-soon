@@ -1,0 +1,12 @@
+body {
+    background-color: #FFE8E8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    font-family: 'Great Vibes', cursive;
+}
+
+.text {
+    font-size: xx-large;
+}
