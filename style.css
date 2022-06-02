@@ -1,10 +1,17 @@
+@font-face {
+    font-family: Shorelines-Script-Bold;
+    font-weight: bold;
+    src: url("Shorelines-Script-Bold.otf") format("opentype");
+}
+
+
 body {
-    background-color: #FFE8E8;
+    background-color: #e8dfd0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 90vh;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Shorelines-Script-Bold', cursive;
 }
 
 .text {
